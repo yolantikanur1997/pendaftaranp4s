@@ -1,0 +1,49 @@
+.login-page .login-box{
+	margin-top: 0px;
+}
+
+.register-page .register-box{
+	margin-top: 0px;
+	width: 50%;
+}
+.indexbodyawalan{
+	background-color: whitesmoke;
+
+}
+.indexbodyawalan .box{
+	box-shadow:  10px 1px 10px 1px  #888888;
+}
+.indexbodyawalan .banner{
+	background-size:  cover;
+	background-position: top;
+	width: 100%;
+	height: auto;
+}
+
+.indexbodyawalan .banner img{
+	width: 100%;
+}
+.indexbodyawalan footer{
+	background-color: #FFFFFF;
+	width: 100%;
+}
+
+.indexbodyawalan footer .row .col-sm-6{
+	padding: 8% 8% 3% 8%;
+}
+.indexbodyawalan footer .footer-txt{
+	padding: 0% 8% 2% 8%;
+	text-align: center;
+}
+
+.indexbodyawalan footer .logo{
+	width: 90%;
+	display: block; 
+	margin: 0px auto 0px auto;
+}
+
+.indexbodyawalan footer h4{
+	font-size: 17px;
+	margin: auto;
+ 	padding: 8% 0px 0px 0px;
+}
